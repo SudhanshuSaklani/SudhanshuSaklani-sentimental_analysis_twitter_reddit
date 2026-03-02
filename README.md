@@ -35,10 +35,11 @@ The goal is to build an end-to-end system that can categorize social media text 
 
 ## **Repository Structure**
 
+https://github.com/SudhanshuSaklani/SudhanshuSaklani-sentimental_analysis_twitter_reddit/blob/8d5063ba6806edfb8b5bea55231a2138c2bb18c9/Screenshot%202026-03-02%20215232.png
 
 ## **How It Works**
 
-## **Text Data Input**
+**Text Data Input**
 Tweet or Reddit content is read from CSV or via input in the app.
 
 **Preprocessing**
