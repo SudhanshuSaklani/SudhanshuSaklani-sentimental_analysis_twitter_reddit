@@ -33,11 +33,11 @@ Flask app for serving predictions through a simple UI
 
 Jupyter Notebook with exploratory analysis
 
-https://github.com/SudhanshuSaklani/SudhanshuSaklani-sentimental_analysis_twitter_reddit/blob/80249cddaa1f322b1ae80e750cb8cd4cbe294025/Screenshot%202026-03-02%20212153.png
+![Image alt][https://github.com/SudhanshuSaklani/SudhanshuSaklani-sentimental_analysis_twitter_reddit/blob/80249cddaa1f322b1ae80e750cb8cd4cbe294025/Screenshot%202026-03-02%20212153.png]
 
 ## **Repository Structure**
 
-https://github.com/SudhanshuSaklani/SudhanshuSaklani-sentimental_analysis_twitter_reddit/blob/8d5063ba6806edfb8b5bea55231a2138c2bb18c9/Screenshot%202026-03-02%20215232.png
+![image alt][https://github.com/SudhanshuSaklani/SudhanshuSaklani-sentimental_analysis_twitter_reddit/blob/8d5063ba6806edfb8b5bea55231a2138c2bb18c9/Screenshot%202026-03-02%20215232.png]
 
 ## **How It Works**
 
