@@ -21,17 +21,19 @@ The goal is to build an end-to-end system that can categorize social media text 
 
 ## **Features**
 
-✔ Preprocessing and cleaning of social text
+Preprocessing and cleaning of social text
 
-✔ TF-IDF vectorizer for converting text to numerical features
+TF-IDF vectorizer for converting text to numerical features
 
-✔ Trained classifier to predict sentiment
+Trained classifier to predict sentiment
 
-✔ Serialization of models (.pkl, .joblib)
+Serialization of models (.pkl, .joblib)
 
-✔ Flask app for serving predictions through a simple UI
+Flask app for serving predictions through a simple UI
 
-✔ Jupyter Notebook with exploratory analysis
+Jupyter Notebook with exploratory analysis
+
+https://github.com/SudhanshuSaklani/SudhanshuSaklani-sentimental_analysis_twitter_reddit/blob/80249cddaa1f322b1ae80e750cb8cd4cbe294025/Screenshot%202026-03-02%20212153.png
 
 ## **Repository Structure**
 
