@@ -1,4 +1,4 @@
-# **Twitter & Reddit Sentiment Analysis**
+# **Sentiment Analysis**
 
 Sentiment Analysis is the process of detecting emotions or opinions expressed in text (e.g., positive, negative or neutral) using Natural Language Processing (NLP) and machine learning techniques.
 This repository provides a complete pipeline to analyze sentiment from Twitter and Reddit data, including data preprocessing, model training, prediction and a simple web interface to test the model.
